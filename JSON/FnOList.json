@@ -1,0 +1,485 @@
+{"FnOList" :
+  [
+          {
+    "SYMBOL": "GRANULES"
+  },
+  {
+    "SYMBOL": "DLF"
+  },
+  {
+    "SYMBOL": "AUBANK"
+  },
+  {
+    "SYMBOL": "TATASTEEL"
+  },
+  {
+    "SYMBOL": "BAJAJFINSV"
+  },
+  {
+    "SYMBOL": "IBULHSGFIN"
+  },
+  {
+    "SYMBOL": "PAGEIND"
+  },
+  {
+    "SYMBOL": "IDEA"
+  },
+  {
+    "SYMBOL": "VEDL"
+  },
+  {
+    "SYMBOL": "NATIONALUM"
+  },
+  {
+    "SYMBOL": "GLENMARK"
+  },
+  {
+    "SYMBOL": "MFSL"
+  },
+  {
+    "SYMBOL": "MPHASIS"
+  },
+  {
+    "SYMBOL": "ADANIPORTS"
+  },
+  {
+    "SYMBOL": "BHARTIARTL"
+  },
+  {
+    "SYMBOL": "DIVISLAB"
+  },
+  {
+    "SYMBOL": "HINDALCO"
+  },
+  {
+    "SYMBOL": "JINDALSTEL"
+  },
+  {
+    "SYMBOL": "JSWSTEEL"
+  },
+  {
+    "SYMBOL": "GRASIM"
+  },
+  {
+    "SYMBOL": "TORNTPHARM"
+  },
+  {
+    "SYMBOL": "PIIND"
+  },
+  {
+    "SYMBOL": "MOTHERSUMI"
+  },
+  {
+    "SYMBOL": "GODREJPROP"
+  },
+  {
+    "SYMBOL": "MANAPPURAM"
+  },
+  {
+    "SYMBOL": "SAIL"
+  },
+  {
+    "SYMBOL": "APOLLOHOSP"
+  },
+  {
+    "SYMBOL": "SRTRANSFIN"
+  },
+  {
+    "SYMBOL": "RECLTD"
+  },
+  {
+    "SYMBOL": "RBLBANK"
+  },
+  {
+    "SYMBOL": "CADILAHC"
+  },
+  {
+    "SYMBOL": "RAMCOCEM"
+  },
+  {
+    "SYMBOL": "MARICO"
+  },
+  {
+    "SYMBOL": "CIPLA"
+  },
+  {
+    "SYMBOL": "IDFCFIRSTB"
+  },
+  {
+    "SYMBOL": "BANDHANBNK"
+  },
+  {
+    "SYMBOL": "CHOLAFIN"
+  },
+  {
+    "SYMBOL": "ALKEM"
+  },
+  {
+    "SYMBOL": "ONGC"
+  },
+  {
+    "SYMBOL": "TATAPOWER"
+  },
+  {
+    "SYMBOL": "GUJGASLTD"
+  },
+  {
+    "SYMBOL": "METROPOLIS"
+  },
+  {
+    "SYMBOL": "SRF"
+  },
+  {
+    "SYMBOL": "TORNTPOWER"
+  },
+  {
+    "SYMBOL": "NAVINFLUOR"
+  },
+  {
+    "SYMBOL": "PVR"
+  },
+  {
+    "SYMBOL": "ASHOKLEY"
+  },
+  {
+    "SYMBOL": "M&MFIN"
+  },
+  {
+    "SYMBOL": "BOSCHLTD"
+  },
+  {
+    "SYMBOL": "APOLLOTYRE"
+  },
+  {
+    "SYMBOL": "LALPATHLAB"
+  },
+  {
+    "SYMBOL": "LUPIN"
+  },
+  {
+    "SYMBOL": "AMBUJACEM"
+  },
+  {
+    "SYMBOL": "MGL"
+  },
+  {
+    "SYMBOL": "IRCTC"
+  },
+  {
+    "SYMBOL": "AARTIIND"
+  },
+  {
+    "SYMBOL": "INDUSTOWER"
+  },
+  {
+    "SYMBOL": "UBL"
+  },
+  {
+    "SYMBOL": "PETRONET"
+  },
+  {
+    "SYMBOL": "NTPC"
+  },
+  {
+    "SYMBOL": "TATACONSUM"
+  },
+  {
+    "SYMBOL": "L&TFH"
+  },
+  {
+    "SYMBOL": "DEEPAKNTR"
+  },
+  {
+    "SYMBOL": "VOLTAS"
+  },
+  {
+    "SYMBOL": "ICICIGI"
+  },
+  {
+    "SYMBOL": "TATACHEM"
+  },
+  {
+    "SYMBOL": "BEL"
+  },
+  {
+    "SYMBOL": "TATAMOTORS"
+  },
+  {
+    "SYMBOL": "ACC"
+  },
+  {
+    "SYMBOL": "ADANIENT"
+  },
+  {
+    "SYMBOL": "PFC"
+  },
+  {
+    "SYMBOL": "MARUTI"
+  },
+  {
+    "SYMBOL": "INFY"
+  },
+  {
+    "SYMBOL": "LTI"
+  },
+  {
+    "SYMBOL": "GODREJCP"
+  },
+  {
+    "SYMBOL": "MUTHOOTFIN"
+  },
+  {
+    "SYMBOL": "HDFCLIFE"
+  },
+  {
+    "SYMBOL": "COALINDIA"
+  },
+  {
+    "SYMBOL": "MINDTREE"
+  },
+  {
+    "SYMBOL": "BAJFINANCE"
+  },
+  {
+    "SYMBOL": "TVSMOTOR"
+  },
+  {
+    "SYMBOL": "SUNPHARMA"
+  },
+  {
+    "SYMBOL": "AMARAJABAT"
+  },
+  {
+    "SYMBOL": "NMDC"
+  },
+  {
+    "SYMBOL": "SUNTV"
+  },
+  {
+    "SYMBOL": "HCLTECH"
+  },
+  {
+    "SYMBOL": "UPL"
+  },
+  {
+    "SYMBOL": "HINDUNILVR"
+  },
+  {
+    "SYMBOL": "BERGEPAINT"
+  },
+  {
+    "SYMBOL": "ZEEL"
+  },
+  {
+    "SYMBOL": "NAUKRI"
+  },
+  {
+    "SYMBOL": "NESTLEIND"
+  },
+  {
+    "SYMBOL": "BANKBARODA"
+  },
+  {
+    "SYMBOL": "DRREDDY"
+  },
+  {
+    "SYMBOL": "HEROMOTOCO"
+  },
+  {
+    "SYMBOL": "LT"
+  },
+  {
+    "SYMBOL": "BIOCON"
+  },
+  {
+    "SYMBOL": "ESCORTS"
+  },
+  {
+    "SYMBOL": "PNB"
+  },
+  {
+    "SYMBOL": "SBIN"
+  },
+  {
+    "SYMBOL": "NAM-INDIA"
+  },
+  {
+    "SYMBOL": "BATAINDIA"
+  },
+  {
+    "SYMBOL": "SBILIFE"
+  },
+  {
+    "SYMBOL": "IOC"
+  },
+  {
+    "SYMBOL": "SHREECEM"
+  },
+  {
+    "SYMBOL": "HDFCAMC"
+  },
+  {
+    "SYMBOL": "DABUR"
+  },
+  {
+    "SYMBOL": "ULTRACEMCO"
+  },
+  {
+    "SYMBOL": "BHARATFORG"
+  },
+  {
+    "SYMBOL": "WIPRO"
+  },
+  {
+    "SYMBOL": "ITC"
+  },
+  {
+    "SYMBOL": "MCDOWELL-N"
+  },
+  {
+    "SYMBOL": "BPCL"
+  },
+  {
+    "SYMBOL": "PIDILITIND"
+  },
+  {
+    "SYMBOL": "BRITANNIA"
+  },
+  {
+    "SYMBOL": "CANBK"
+  },
+  {
+    "SYMBOL": "TITAN"
+  },
+  {
+    "SYMBOL": "AUROPHARMA"
+  },
+  {
+    "SYMBOL": "COROMANDEL"
+  },
+  {
+    "SYMBOL": "HAVELLS"
+  },
+  {
+    "SYMBOL": "POWERGRID"
+  },
+  {
+    "SYMBOL": "LTTS"
+  },
+  {
+    "SYMBOL": "PFIZER"
+  },
+  {
+    "SYMBOL": "M&M"
+  },
+  {
+    "SYMBOL": "BALKRISIND"
+  },
+  {
+    "SYMBOL": "PEL"
+  },
+  {
+    "SYMBOL": "ICICIBANK"
+  },
+  {
+    "SYMBOL": "HDFC"
+  },
+  {
+    "SYMBOL": "ASIANPAINT"
+  },
+  {
+    "SYMBOL": "MRF"
+  },
+  {
+    "SYMBOL": "SIEMENS"
+  },
+  {
+    "SYMBOL": "FEDERALBNK"
+  },
+  {
+    "SYMBOL": "ABFRL"
+  },
+  {
+    "SYMBOL": "KOTAKBANK"
+  },
+  {
+    "SYMBOL": "CUMMINSIND"
+  },
+  {
+    "SYMBOL": "INDIGO"
+  },
+  {
+    "SYMBOL": "JUBLFOOD"
+  },
+  {
+    "SYMBOL": "INDUSINDBK"
+  },
+  {
+    "SYMBOL": "CUB"
+  },
+  {
+    "SYMBOL": "APLLTD"
+  },
+  {
+    "SYMBOL": "EXIDEIND"
+  },
+  {
+    "SYMBOL": "GMRINFRA"
+  },
+  {
+    "SYMBOL": "BHEL"
+  },
+  {
+    "SYMBOL": "EICHERMOT"
+  },
+  {
+    "SYMBOL": "TECHM"
+  },
+  {
+    "SYMBOL": "GAIL"
+  },
+  {
+    "SYMBOL": "CONCOR"
+  },
+  {
+    "SYMBOL": "AXISBANK"
+  },
+  {
+    "SYMBOL": "RELIANCE"
+  },
+  {
+    "SYMBOL": "COLPAL"
+  },
+  {
+    "SYMBOL": "HDFCBANK"
+  },
+  {
+    "SYMBOL": "LICHSGFIN"
+  },
+  {
+    "SYMBOL": "IGL"
+  },
+  {
+    "SYMBOL": "ICICIPRULI"
+  },
+  {
+    "SYMBOL": "INDHOTEL"
+  },
+  {
+    "SYMBOL": "TCS"
+  },
+  {
+    "SYMBOL": "HINDPETRO"
+  },
+  {
+    "SYMBOL": "TRENT"
+  },
+  {
+    "SYMBOL": "BAJAJ-AUTO"
+  },
+  {
+    "SYMBOL": "COFORGE"
+  }
+]
+}
+
